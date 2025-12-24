@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I’m Vishaka 👋
 
-<!--
-**dev-vishaka/dev-vishaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer who enjoys building practical, database-driven applications.
+Most of my work focuses on backend logic, CRUD operations, and clean UI workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- PHP, MySQL
+- HTML, CSS, JavaScript
+- SQL & Database Design
+- Git & GitHub
+
+---
+
+## 📌 Projects
+
+### ✈️ Airline Reservation System
+A web application to manage flight search, booking, and passenger data.  
+**Tech:** HTML, CSS, JavaScript, JSON
+
+### 📝 Student Feedback Management System
+A PHP & MySQL-based system to collect, store, and analyze student feedback.  
+**Tech:** PHP, MySQL, HTML, CSS
+
+### 📦 Courier Management System
+A CRUD-based application for managing courier bookings and tracking.  
+**Tech:** PHP, MySQL, HTML, CSS
+
+---
+
+## 🌱 Currently Learning
+- Improving backend logic
+- Writing efficient SQL queries
+- Better project structure and documentation
+
+---
+
+📫 **Contact:** vishaka1033@gmail.com  
+📍 Pune, Maharashtra, India
