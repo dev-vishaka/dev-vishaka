@@ -1,4 +1,6 @@
-<img width="100%" src="https://raw.githubusercontent.com/dheerajkotwani/dheerajkotwani/master/hello.gif"/>
+<p align="center">
+<img width="50%" src="https://raw.githubusercontent.com/dheerajkotwani/dheerajkotwani/master/hello.gif"/>
+    </p>
 <br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dev-vishaka&color=brightgreen" alt="watching_count" />
